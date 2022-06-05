@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListTest</string>
+    <string name="name">Name:</string>
+    <string name="type">Type:</string>
+    <string name="nb">Nb players:</string>
+    <string name="Year">Year: </string>
+    <string name="game_info">Game Info</string>
+    <string name="more">Do you want to know more?</string>
+</resources>
